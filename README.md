@@ -1,6 +1,15 @@
-<h2>Hi there 👋</h2>
+<h2>Hey there 👋</h2>
 
-- :bust_in_silhouette: My name is Arjun Shah
-- 🔭 My favorite tech stack is anything React!
-- 📫 You can reach me at arjun.shah@aol.com
-- ⚡ Fun fact: I graduated from Rutgers University!
+I'm **Arjun Shah** — a current **M.S. in Computer Science** student at **Georgia Tech** 🐝.  
+
+💡 **A bit about me:**
+- 🎓 Graduated from **Rutgers University** (B.S. in Computer Science)
+- 🚀 I enjoy exploring a wide range of computer science topics,  
+  but I’m especially passionate about **operating systems, C programming**,  
+  and building things close to the metal — from system-level tools  
+  to backend logic that keeps everything running smoothly
+- 🧠 Constantly exploring new technologies and improving my craft
+
+🔒 Some of my most interesting projects are **private**, but feel free to reach out — I’d be happy to talk about what I’m working on!  
+
+📫 **Get in touch:** [ashah917@gatech.edu](mailto:ashah917@gatech.edu)
