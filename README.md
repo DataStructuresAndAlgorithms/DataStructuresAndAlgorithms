@@ -5,7 +5,7 @@ I'm **Arjun Shah** — a current **M.S. in Computer Science** student at **Georg
 💡 **A bit about me:**
 - 🎓 Graduated from **Rutgers University** (B.S. in Computer Science)
 - 🚀 I enjoy exploring a wide range of computer science topics,  
-  but I’m especially passionate about **operating systems, C programming**,  
+  but I’m especially passionate about **full stack development (front end and back end)**,  
   and building things close to the metal — from system-level tools  
   to backend logic that keeps everything running smoothly
 - 🧠 Constantly exploring new technologies and improving my craft
