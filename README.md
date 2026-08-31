@@ -4,7 +4,7 @@ I'm **Arjun Shah** — a current **M.S. in Computer Science** student at **Georg
 [My personal website](https://arjuns.space)
 
 💡 **A bit about me:**
-- 🎓 Graduated from **Rutgers University** (B.S. in Computer Science)
+- 🎓 Graduated from **Rutgers University**🛡️ (B.S. in Computer Science)
 - 🚀 I enjoy exploring a wide range of computer science topics,  
   but I’m especially passionate about **C Programming**,  
   and building things close to the metal, from system-level tools  
